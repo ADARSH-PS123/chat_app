@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361309583542",
+    "project_id": "yochat-a0cfd",
+    "storage_bucket": "yochat-a0cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361309583542:android:dc3cca5fe10f9715bb8e17",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361309583542-eb732id0npp4oqd6rriqjlceef7crcq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6TEbu3w4U9-HZw0FLguNRjye2YUZekt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361309583542-eb732id0npp4oqd6rriqjlceef7crcq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
